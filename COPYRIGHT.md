@@ -1,7 +1,7 @@
 # 许可与版权声明 / License & Copyright
 
 **发布日期**：2026-09-01
-**作者**：lukas（GitHub: [@chillboy67](https://github.com/chillboy67)）
+**作者**：GitHub: [@chillboy67](https://github.com/chillboy67)
 **适用作品**：「留学申请手册」及其全部内容，包括但不限于文字、结构、框架、清单模板、经验总结与后续更新。
 
 ---

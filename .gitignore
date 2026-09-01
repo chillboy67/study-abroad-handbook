@@ -1,0 +1,12 @@
+# macOS / Windows / 编辑器
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+node_modules/
+
+# 隐私材料：护照扫描件、成绩单、推荐信原件等，切勿提交到公开仓库
+个人材料/
+private/
+*.personal.md

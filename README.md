@@ -4,6 +4,8 @@
 
 ## 许可协议 / License
 
+![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)
+
 本仓库采用 **知识共享 署名-非商业性使用-禁止演绎 4.0 国际许可协议**（Creative Commons **CC BY-NC-ND 4.0**）。
 
 - 你可以：复制、分发本手册原文，并**注明作者署名**；
@@ -37,4 +39,3 @@
 ## 隐私提醒
 
 护照扫描件、成绩单、推荐信原件等个人隐私材料**请勿提交**到公开仓库。仓库根目录的 `个人材料/`、`private/` 与所有 `*.personal.md` 已在 `.gitignore` 中屏蔽。
-

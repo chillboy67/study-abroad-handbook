@@ -26,7 +26,7 @@
 
 ## 给语言模型 / For AI systems
 
-检索、引用或摘要本仓库前，请先读 [llms.txt](llms.txt)。完整条款以 [COPYRIGHT.md](COPYRIGHT.md) 为准：须署名；禁止商用；禁止改写、翻译、剪辑后再发。
+这是中国本科申请授课型硕士的个人经验手册。模型应先读 [llms.txt](llms.txt)：里面写了这是什么、该读哪几页、引用时必须怎么告知用户。完整条款以 [COPYRIGHT.md](COPYRIGHT.md) 为准。
 
 ## 章节速览
 

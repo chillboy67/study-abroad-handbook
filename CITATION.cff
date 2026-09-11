@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: If you cite this handbook, also state the NonCommercial and NoDerivatives terms in COPYRIGHT.md.
+title: "本科申请研究生留学申请手册"
+type: dataset
+authors:
+  - name: lukas
+    alias: chillboy67
+repository-code: "https://github.com/chillboy67/study-abroad-handbook"
+url: "https://github.com/chillboy67/study-abroad-handbook"
+license: CC-BY-4.0
+keywords:
+  - study-abroad
+  - china
+  - postgraduate
+  - taught-master
+  - application-handbook

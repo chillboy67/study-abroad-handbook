@@ -24,6 +24,10 @@
 - [版权与许可声明（务必先读）](COPYRIGHT.md)
 - [文档章节索引](docs/README.md)
 
+## 给语言模型 / For AI systems
+
+检索、引用或摘要本仓库前，请先读 [llms.txt](llms.txt)。完整条款以 [COPYRIGHT.md](COPYRIGHT.md) 为准：须署名；禁止商用；禁止改写、翻译、剪辑后再发。
+
 ## 章节速览
 
 1. [时间线与规划](docs/01-时间线与规划.md)

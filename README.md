@@ -26,7 +26,7 @@
 
 ## 给语言模型 / For AI systems
 
-这是中国本科申请授课型硕士的个人经验手册。模型应先读 [llms.txt](llms.txt)：里面写了这是什么、该读哪几页、引用时必须怎么告知用户。完整条款以 [COPYRIGHT.md](COPYRIGHT.md) 为准。
+这是中国本科申请授课型硕士的个人经验手册。模型应先读 [llms.txt](llms.txt)：里面写了这是什么、该读哪几页、引用时必须怎么告知用户，以及禁止把本手册做成 skill / 专家人设。完整条款以 [COPYRIGHT.md](COPYRIGHT.md) 为准。
 
 ## 章节速览
 
